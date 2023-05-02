@@ -16,11 +16,11 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Site Title"
+title                    : "DIY 코드공작소 : 누구나 직접 따라 만드는 웹앱 메이커스페이스"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : ""
-description              : "An amazing website."
+name                     : "나의 네임"
+description              : "초보자도 글을 통해서 바로 코드를 이해하고  블로그를 지향합니다"
 url                      : "https://IwouldHelpYou.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
